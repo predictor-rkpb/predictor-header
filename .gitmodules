@@ -1,0 +1,3 @@
+[submodule "projects/predictor-angular-shared-lib"]
+	path = projects/predictor-angular-shared-lib
+	url = https://github.com/predictor-rkpb/predictor-angular-shared-lib.git
